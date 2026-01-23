@@ -1,5 +1,33 @@
 # Programmation de systèmes d’exploitation par scripts
 
+
+```mermaid
+graph TD
+    %% Kernel
+    K[Noyau du système<br/>(Linux / Windows)]
+
+    %% Shell
+    S[Shell<br/>(bash, PowerShell, cmd)]
+
+    %% Services & Applications
+    A1[Applications<br/>(Web, ERP, CLI)]
+    A2[Serveur Web<br/>(Apache, Nginx, IIS)]
+    A3[DNS]
+    A4[Active Directory]
+    A5[Serveur de fichiers]
+    A6[Base de données]
+
+    %% Relations
+    A1 --> S
+    A2 --> S
+    A3 --> S
+    A4 --> S
+    A5 --> S
+    A6 --> S
+
+    S --> K
+```
+
 ## 1. Introduction
 
 Cette leçon porte sur la **gestion et l’administration des systèmes d’exploitation à l’aide de scripts**. Il ne s’agit pas de programmer un système d’exploitation lui‑même, mais d’**automatiser des tâches d’administration**, de surveillance et de maintenance en utilisant des langages de script.

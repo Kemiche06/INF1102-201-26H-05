@@ -2,25 +2,20 @@
 
 
 ```mermaid
-graph TD
-    K["Noyau du systeme\nLinux / Windows"]
-    S["Shell\nbash / PowerShell / cmd"]
-
-    A1["Applications"]
-    A2["Serveur Web\nApache / Nginx / IIS"]
-    A3["DNS"]
-    A4["Active Directory"]
-    A5["Serveur de fichiers"]
-    A6["Base de donnees"]
-
-    A1 --> S
-    A2 --> S
-    A3 --> S
-    A4 --> S
-    A5 --> S
-    A6 --> S
-
-    S --> K
+block-beta
+columns 1
+  db(("DB"))
+  blockArrowId6<["&nbsp;&nbsp;&nbsp;"]>(down)
+  block:ID
+    A
+    B["A wide one in the middle"]
+    C
+  end
+  space
+  D
+  ID --> D
+  C --> D
+  style B fill:#969,stroke:#333,stroke-width:4px
 ```
 
 ## 1. Introduction

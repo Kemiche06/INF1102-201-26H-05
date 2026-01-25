@@ -1,5 +1,21 @@
 
 
+```bash
+pveum user add tofu@pve
+pveum aclmod / -user tofu@pve -role Administrator
+pveum user token add tofu@pve opentofu --privsep 0
+┌──────────────┬──────────────────────────────────────┐
+│ key          │ value                                │
+╞══════════════╪══════════════════════════════════════╡
+│ full-tokenid │ tofu@pve!opentofu                    │
+├──────────────┼──────────────────────────────────────┤
+│ info         │ {"privsep":"0"}                      │
+├──────────────┼──────────────────────────────────────┤
+│ value        │ 4fa24fc3-bd8c-4916-ba6e-09xxxxxxxx00 │
+└──────────────┴──────────────────────────────────────┘
+```
+
+
 ```terraform
 tofu apply
 

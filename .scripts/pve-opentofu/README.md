@@ -55,12 +55,12 @@ cd pve-opentofu
 ```
 
 ```bash
-touch main.tf variables.tf terraform.tfvars
+touch provider.tf main.tf variables.tf terraform.tfvars
 ```
 
 ---
 
-## 3️⃣ Provider configuration (`main.tf`)
+## 3️⃣ Provider configuration (`provider.tf`)
 
 ```hcl
 terraform {
@@ -82,7 +82,7 @@ provider "proxmox" {
 
 ---
 
-## 4️⃣ VM resource (Cloud-Init VM)
+## 4️⃣ VM resource (Cloud-Init VM) (`main.tf`)
 
 Example **Ubuntu VM** cloned from a template:
 

@@ -24,3 +24,68 @@ $STUDENTS = @(
 "300152410|imadboudeuf|205994834"
 )
 
+# --------------------------------------
+# Division des étudiants en 2 groupes
+# --------------------------------------
+
+$TOTAL = $STUDENTS.Count
+$GROUP_SIZE = [Math]::Ceiling($TOTAL / 2)
+
+$GROUP_1 = $STUDENTS[0..($GROUP_SIZE - 1)]
+$GROUP_2 = $STUDENTS[(2 * $GROUP_SIZE)..($TOTAL - 1)]
+
+# --------------------------------------
+# Division des VMs en 2 groupes
+# --------------------------------------
+
+$SERVERS = @(
+"10.7.237.224"
+"10.7.237.226"
+"10.7.237.227"
+"10.7.237.228"
+"10.7.237.229"
+"10.7.237.230"
+"10.7.237.231"
+"10.7.237.232"
+"10.7.237.233"
+"10.7.237.234"
+"10.7.237.235"
+"10.7.237.236"
+"10.7.237.237"
+"10.7.237.238"
+"10.7.237.239"
+"10.7.237.240"
+"10.7.237.241"
+"10.7.237.242"
+"10.7.237.243"
+"10.7.237.245"
+)
+
+$SERVER_GROUP_1 = $SERVERS[0..($GROUP_SIZE - 1)]
+$SERVER_GROUP_2 = $SERVERS[(2 * $GROUP_SIZE)..($TOTAL - 1)]
+
+# --------------------------------------
+# S21	https://10.7.236.19:8006	64	16	272	Virtual Environment 7.4-20
+# S25	https://10.7.237.38:8006	64	16	272	Virtual Environment 7.4-20
+# --------------------------------------
+
+$PROXMOX_SERVERS = @(
+"10.7.237.19"
+"10.7.237.38"
+)
+
+$PROXMOX_GROUP_1 = $PROXMOX_SERVERS[0] 
+$PROXMOX_GROUP_2 = $PROXMOX_SERVERS[1] 
+
+# --------------------------------------
+# pm_token_id     = "tofu@pve!opentofu"
+# pm_token_secret = "4fa24fc3-bd8c-4916-ba6e-09xxxxxx3b00"
+# --------------------------------------
+
+$TOFU_SECRETS = @(
+"4fa24fc3-bd8c-4916-ba6e-09a8aecc3b00"
+"f728d095-1506-490f-81b1-ecdafdfb8ef9"
+)
+
+$TOFU_SECRET_GROUP_1 = $TOFU_SECRETS[0] 
+$TOFU_SECRET_GROUP_2 = $TOFU_SECRETS[1] 

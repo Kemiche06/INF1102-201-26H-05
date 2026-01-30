@@ -36,6 +36,6 @@
 | 5 | [300150268](../300150268/README.md) :point_right: [kemiche06](https://github.com/kemiche06) <image src='https://avatars0.githubusercontent.com/u/207268490?s=460&v=4' width=20 height=20></image> | :x: | :x: | :x: | 10.7.237.230 |
 | 6 | [300150275](../300150275/README.md) :point_right: [tarik-n](https://github.com/tarik-n) <image src='https://avatars0.githubusercontent.com/u/205994588?s=460&v=4' width=20 height=20></image> | :x: | :x: | :x: | 10.7.237.231 |
 | 7 | [300150296](../300150296/README.md) :point_right: [bnnyouba99](https://github.com/bnnyouba99) <image src='https://avatars0.githubusercontent.com/u/205198510?s=460&v=4' width=20 height=20></image> | :x: | :x: | :x: | 10.7.237.232 |
-| 8 | [300150395](../300150395/README.md) :point_right: [ismailtrache](https://github.com/ismailtrache) <image src='https://avatars0.githubusercontent.com/u/211577767?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: | :x: | 10.7.237.233 |
+| 8 | [300150395](../300150395/README.md) :point_right: [ismailtrache](https://github.com/ismailtrache) <image src='https://avatars0.githubusercontent.com/u/211577767?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 10.7.237.233 |
 | 9 | [300150557](../300150557/README.md) :point_right: [hanichou](https://github.com/hanichou) <image src='https://avatars0.githubusercontent.com/u/205994729?s=460&v=4' width=20 height=20></image> | :x: | :x: | :x: | 10.7.237.234 |
-| :abacus: | \$\\frac{0}{10}\$ = 0% | \$\displaystyle\sum_{i=1}^{10} s_i\$ = 0 |
+| :abacus: | \$\\frac{1}{10}\$ = 10% | \$\displaystyle\sum_{i=1}^{10} s_i\$ = 1 |

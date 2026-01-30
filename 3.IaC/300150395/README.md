@@ -29,6 +29,6 @@ Cet extrait JSON montre que la VM vm300150395 a bien été créée sur Proxmox a
 
 Cette image est la capture de l’accès à ma machine virtuelle vm300150395 créée automatiquement avec OpenTofu sur Proxmox.
 
-<img src="images/1.png" width="482" height="212"></img>
+<img src="images/1.png" width="800" height="450"></img>
 
 

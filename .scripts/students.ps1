@@ -32,7 +32,7 @@ $TOTAL = $STUDENTS.Count
 $GROUP_SIZE = [Math]::Ceiling($TOTAL / 2)
 
 $GROUP_1 = $STUDENTS[0..($GROUP_SIZE - 1)]
-$GROUP_2 = $STUDENTS[(2 * $GROUP_SIZE)..($TOTAL - 1)]
+$GROUP_2 = $STUDENTS[($GROUP_SIZE)..($TOTAL - 1)]
 
 # --------------------------------------
 # Division des VMs en 2 groupes
@@ -62,7 +62,7 @@ $SERVERS = @(
 )
 
 $SERVER_GROUP_1 = $SERVERS[0..($GROUP_SIZE - 1)]
-$SERVER_GROUP_2 = $SERVERS[(2 * $GROUP_SIZE)..($TOTAL - 1)]
+$SERVER_GROUP_2 = $SERVERS[($GROUP_SIZE)..($TOTAL - 1)]
 
 # --------------------------------------
 # S21	https://10.7.236.19:8006	64	16	272	Virtual Environment 7.4-20

@@ -1,6 +1,5 @@
 
 
-<img src="images/istockphoto-1189860501-612x612.jpg" width="600"/>
 
 
 

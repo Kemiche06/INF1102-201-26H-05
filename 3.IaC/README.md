@@ -277,6 +277,8 @@ L’IaC est un **pilier du DevOps** :
 
 ### 🔄 Exercices
 
+<img src=images/Proxmox-INF1102.png width='50%' height='50%' > </img>
+
 
 OpenTofu works **almost exactly like Terraform**, and Proxmox VE 7 is well-supported via the **Telmate Proxmox provider**.
 

@@ -481,7 +481,7 @@ ssh -i ~/.ssh/ma_cle.pk `
 
 | Cle du prof                     |
 |---------------------------------|
-| > nano ~/.ssh/cle_publique_du_prof.pub |
+| nano ~/.ssh/cle_publique_du_prof.pub |
 
 - [ ] Copier dans le fichier ci-dessus
 

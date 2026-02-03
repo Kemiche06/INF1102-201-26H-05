@@ -65,12 +65,12 @@ $SERVER_GROUP_1 = $SERVERS[0..($GROUP_SIZE - 1)]
 $SERVER_GROUP_2 = $SERVERS[($GROUP_SIZE)..($TOTAL - 1)]
 
 # --------------------------------------
-# S21	https://10.7.236.19:8006	64	16	272	Virtual Environment 7.4-20
+# S21	https://10.7.237.19:8006	64	16	272	Virtual Environment 7.4-20
 # S25	https://10.7.237.38:8006	64	16	272	Virtual Environment 7.4-20
 # --------------------------------------
 
 $PROXMOX_SERVERS = @(
-"10.7.236.19"
+"10.7.237.19"
 "10.7.237.38"
 )
 

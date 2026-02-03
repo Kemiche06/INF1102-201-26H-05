@@ -436,10 +436,6 @@ pm_nameserver   = "10.7.237.3"
 pm_url          = "https://10.7.237.xx:8006/api2/json"
 pm_token_id     = "tofu@pve!opentofu"
 pm_token_secret = "4fa24fc3-bd8c-4916-ba6e-09xxxxxxx3b00"
-sshkeys = [
-  file("~/.ssh/ma_cle.pub"),
-  file("~/.ssh/cle_publique_du_prof.pub")
-]
 ```
 
 ⚠️ **Do not commit this file**

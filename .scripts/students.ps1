@@ -21,8 +21,8 @@ $STUDENTS = @(
 "300151608|mohammedaiche434|205994734"
 "300152131|el-calvino|205994709"
 "300152260|bekkai-mohibb|212179557"
-"300152410|imadboudeuf|205994834"
-)
+"300152410|imadboud|212177230"
+
 
 # --------------------------------------
 # Division des étudiants en 2 groupes

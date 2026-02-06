@@ -1,0 +1,12 @@
+pm\_vm\_name      = "vm300146112"
+
+pm\_ipconfig0    = "ip=10.7.237.227/23,gw=10.7.237.1"
+
+pm\_nameserver   = "10.7.237.3"
+
+pm\_url          = "https://10.7.237.19:8006/api2/json"
+
+pm\_token\_id     = "tofu@pve!opentofu"
+
+pm\_token\_secret = "f2097a3c-f9f0-4558-9a43-5cd0ae718abe"
+

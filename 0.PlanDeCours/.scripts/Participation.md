@@ -1,4 +1,4 @@
-# Participation au 30-01-2026 18:05
+# Participation au 06-02-2026 14:11
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -19,7 +19,7 @@
 | 0 | [300135538](../300135538/README.md) :point_right: [RedaYousfi](https://github.com/RedaYousfi) <image src='https://avatars0.githubusercontent.com/u/133056385?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 1 | [300141570](../300141570/README.md) :point_right: [swberk](https://github.com/swberk) <image src='https://avatars0.githubusercontent.com/u/66260193?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 2 | [300146112](../300146112/README.md) :point_right: [laggabkhalef](https://github.com/laggabkhalef) <image src='https://avatars0.githubusercontent.com/u/205994703?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
-| 3 | [300146676](../300146676/README.md) :point_right: [harkatiaymen](https://github.com/harkatiaymen) <image src='https://avatars0.githubusercontent.com/u/211595997?s=460&v=4' width=20 height=20></image> | :x: | :x: |
+| 3 | [300146676](../300146676/README.md) :point_right: [harkatiaymen](https://github.com/harkatiaymen) <image src='https://avatars0.githubusercontent.com/u/211595997?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 4 | [300148094](../300148094/README.md) :point_right: [ouailg28](https://github.com/ouailg28) <image src='https://avatars0.githubusercontent.com/u/212054634?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 5 | [300150268](../300150268/README.md) :point_right: [kemiche06](https://github.com/kemiche06) <image src='https://avatars0.githubusercontent.com/u/207268490?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 6 | [300150275](../300150275/README.md) :point_right: [tarik-n](https://github.com/tarik-n) <image src='https://avatars0.githubusercontent.com/u/205994588?s=460&v=4' width=20 height=20></image> | :x: | :x: |
@@ -36,4 +36,4 @@
 | 17 | [300152131](../300152131/README.md) :point_right: [el-calvino](https://github.com/el-calvino) <image src='https://avatars0.githubusercontent.com/u/205994709?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 18 | [300152260](../300152260/README.md) :point_right: [bekkai-mohibb](https://github.com/bekkai-mohibb) <image src='https://avatars0.githubusercontent.com/u/212179557?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 19 | [300152410](../300152410/README.md) :point_right: [imadboudeuf](https://github.com/imadboudeuf) <image src='https://avatars0.githubusercontent.com/u/205994834?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| :abacus: | \$\\frac{7}{20}\$ = 35% | \$\displaystyle\sum_{i=1}^{20} s_i\$ = 7 |
+| :abacus: | \$\\frac{8}{20}\$ = 40% | \$\displaystyle\sum_{i=1}^{20} s_i\$ = 8 |

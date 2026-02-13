@@ -26,8 +26,8 @@
 
 ## :a: Présence
 
-|:hash:| Boréal :id:                | README.md | images | main.tf | :link: IP |
-|------|----------------------------|-----------|--------|---------|------------|
+|:hash:| Boréal :id:                | README.md | images | scruter_nginx.sh | :link: IP |
+|------|----------------------------|-----------|--------|------------------|------------|
 | 0 | [300135538](../300135538/README.md) [<image src='https://avatars0.githubusercontent.com/u/133056385?s=460&v=4' width=20 height=20></image>](https://github.com/RedaYousfi) | :x: | :x: | :x: | 10.7.237.224 |
 | 1 | [300141570](../300141570/README.md) [<image src='https://avatars0.githubusercontent.com/u/66260193?s=460&v=4' width=20 height=20></image>](https://github.com/swberk) | :x: | :x: | :x: | 10.7.237.226 |
 | 2 | [300146112](../300146112/README.md) [<image src='https://avatars0.githubusercontent.com/u/205994703?s=460&v=4' width=20 height=20></image>](https://github.com/laggabkhalef) | :x: | :x: | :x: | 10.7.237.227 |

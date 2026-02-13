@@ -66,8 +66,8 @@ Write-Output ""
 Write-Output ""
 Write-Output "## :a: Présence"
 Write-Output ""
-Write-Output "|:hash:| Boréal :id:                | README.md | images | main.tf | :link: IP |"
-Write-Output "|------|----------------------------|-----------|--------|---------|------------|"
+Write-Output "|:hash:| Boréal :id:                | README.md | images | scruter_nginx.sh | :link: IP |"
+Write-Output "|------|----------------------------|-----------|--------|------------------|------------|"
 
 
 # Initialize counters
